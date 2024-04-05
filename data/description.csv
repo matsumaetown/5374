@@ -1,5 +1,9 @@
 label,sublabel,description,styles,bgcolor
-燃やさないごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
-燃やすごみ,,,img/moyasu02.svg,#ea3b13
-びん,,,img/bin02.svg,#2dc7aa
+燃やせるごみ,,,img/moyaseru.svg,#3333ff
+燃えないごみ,,,img/moenai.svg,#ffff00
+カン,,,img/can.svg,#33㏄00
+ビン・ペットボトル,,,img/bottle.svg,#ff6600
+プラスチック,,,img/plastic.svg,#cccccc
+燃える粗大,,,img/sodaimoeru.svg,#993399
+燃えない粗大,,,img/sodaimoenai.svg,#ffff99
+紙・ダンボール,,,img/paper.svg,#ff3399
